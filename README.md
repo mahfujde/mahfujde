@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=200&section=header&text=Md%20Mahfuj%20Hossain&fontColor=C6FF33&fontSize=44&animation=fadeIn&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=8&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=C6FF33&background=0D0D0D&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;Full-Stack+Web+Applications;Next.js+%2B+WordPress;Prompt+Engineer;Applied+AI+%26+LLM" />
+<br>
+
+# Md Mahfuj Hossain
+
+### Web Developer - Full-Stack Web Applications
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=C6FF33&background=0D0D0D&center=true&vCenter=true&width=600&height=45&lines=Next.js+%2B+WordPress;Prompt+Engineer;Applied+AI+%26+LLM;Open+to+Ireland" />
 
 <a href="https://mahfujde.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=C6FF33" /></a>
 <a href="mailto:mahfujdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -47,17 +53,17 @@ Based in Kuala Lumpur, Malaysia. Open to relocation and remote roles, including 
 
 | Project | Stack | What it does |
 |---|---|---|
-| [ThesisPublisher.my](https://thesispublisher.my/) | Next.js · custom backend | Academic publishing platform, 45+ research disciplines, custom file-upload backend and editorial review workflow |
+| [ThesisPublisher.my](https://thesispublisher.my/) | Next.js - custom backend | Academic publishing platform, 45+ research disciplines, custom file-upload backend and editorial review workflow |
 | [The EduWave](https://theeduwave.com/) | Next.js | Education-consultancy platform for Bangladeshi students applying to Malaysian universities |
 | [PUMA Solutions Global](https://pumasolutionsglobal.com/) | Next.js | Study-abroad consultancy platform covering 30+ countries |
 | [Khandani Foods](https://khandanifoods.com/en) | Next.js | B2B export catalogue and quote-request platform |
-| [La Finesse](https://www.lafinesse.ch/) | WordPress · Elementor | Medical-aesthetics studio site in Bern, Switzerland |
+| [La Finesse](https://www.lafinesse.ch/) | WordPress - Elementor | Medical-aesthetics studio site in Bern, Switzerland |
 | [IELTS & OET by Hasnat](https://ieltsandoetbyhasnat.com/) | Custom build | Exam-preparation platform with course enrollment and a student portal |
 | [Amsterdam Canal Painting](https://www.amsterdamcanalpainting.nl/) | Wix | Painting-workshop business site |
 
 Full case studies are on the [portfolio](https://mahfujde.github.io/portfolio/).
 
-**Also on GitHub:** CTI-Shield, a lifecycle-wide evaluation and mitigation framework for trustworthy AI in cyber threat intelligence — an 8-agent pipeline with hybrid retrieval, hallucination guardrails, trust scoring and STIX 2.1 export. Pinned below, along with a couple of other research repos from applied-AI work on the side.
+**Also on GitHub:** CTI-Shield, a lifecycle-wide evaluation and mitigation framework for trustworthy AI in cyber threat intelligence, an 8-agent pipeline with hybrid retrieval, hallucination guardrails, trust scoring and STIX 2.1 export. Pinned below, along with a couple of other research repos from applied-AI work on the side.
 
 <div align="center">
 
@@ -67,6 +73,6 @@ Full case studies are on the [portfolio](https://mahfujde.github.io/portfolio/).
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=8&section=footer" width="100%"/>
 
 </div>
